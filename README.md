@@ -16,7 +16,7 @@ Build
 * run `npm install` at the root folder
 * run `webpack`
 * to watch, run `webpack --watch`
-* to build uglified js, run `ODE_ENV=production webpack`
+* to build uglified js, run `NODE_ENV=production webpack`
 
 
 Run
