@@ -19,4 +19,7 @@ Build
 * to build uglified js, run `ODE_ENV=production webpack`
 
 
+Run
+=====
+* click on `index.html`
 
